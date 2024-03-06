@@ -1,0 +1,2 @@
+# wordpress_script
+ubuntu
